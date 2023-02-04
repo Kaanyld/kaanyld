@@ -1,4 +1,9 @@
 ### Hi there 👋
+Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+<br />
+<br />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kaanyld&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaanyld&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" "/>
   
@@ -19,7 +24,7 @@
 [javascript]:https://www.javascript.com/
 [C#]:https://www.microsoft.com/
 [.NET]:https://www.microsoft.com/
-
+[linkedin]:
 <br />
 <br />
 <!--
